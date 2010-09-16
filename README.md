@@ -9,7 +9,7 @@ purpose of demonstrating Buildr's multi-lingual features.
 
 See [the accompanying presentation][presentation] 
 
-  [presentation]: http://github.com/aboisvert/buildr-javazone-2010/blob/master/buildr-javazone-2010-final.pdf
+  [presentation]: http://github.com/aboisvert/buildr-javazone-2010/raw/master/buildr-javazone-2010-final.pdf
 
 And the related [buildfile][buildfile].
 
