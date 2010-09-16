@@ -9,11 +9,11 @@ purpose of demonstrating Buildr's multi-lingual features.
 
 See [the accompanying presentation][presentation] 
 
-  [presentation]: buildr-javazone-2010-final.pdf
+  [presentation]: buildr-javazone-2010/buildr-javazone-2010-final.pdf
 
 And the related [buildfile][buildfile].
 
-  [buildfile]: buildfile
+  [buildfile]: buildr-javazone-2010/buildfile
 
 And refer to the [Apache Buildr website][website] for more details.
 
